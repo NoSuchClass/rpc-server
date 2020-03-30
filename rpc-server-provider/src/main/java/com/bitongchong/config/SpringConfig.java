@@ -1,4 +1,4 @@
-package com.bitongchong;
+package com.bitongchong.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

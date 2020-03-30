@@ -1,4 +1,4 @@
-package com.bitongchong;
+package com.bitongchong.rpc;
 
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,7 @@
-package com.bitongchong;
+package com.bitongchong.impl;
 
 import com.bitongchong.rpc.IUserService;
+import com.bitongchong.rpc.RpcService;
 
 /**
  * @author liuyuehe

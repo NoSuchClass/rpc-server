@@ -1,4 +1,4 @@
-package com.bitongchong;
+package com.bitongchong.rpc;
 
 import com.bitongchong.rpc.RpcRequest;
 import lombok.SneakyThrows;
